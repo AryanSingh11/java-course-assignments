@@ -1,6 +1,5 @@
 package Functions.java;
 
-import java.util.Scanner;
 
 public  class  Armstrong {
     //Print all 3 digit Armstrong Numbers
