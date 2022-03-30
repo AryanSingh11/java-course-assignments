@@ -1,5 +1,6 @@
 package Arrays.VideoQuestions;
 
+
 public class Syntax {
     public static void main(String[] args) {
         //datatype[ ] variable_name= new datatype[size];
