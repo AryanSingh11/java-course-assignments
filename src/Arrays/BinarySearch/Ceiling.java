@@ -3,7 +3,7 @@ package Arrays.BinarySearch;
 public class Ceiling {
     //smallest number greater than equal to target
     public static void main(String[] args) {
-        int[]arr={2,4,6,9,11,11,14,16,19};
+        int[]arr={2,4,6,9,11,14,16,19};
         int target=11;
 
         System.out.println(CeilingOfNum(arr,  target));
