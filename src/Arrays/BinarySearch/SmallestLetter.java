@@ -5,7 +5,7 @@ package Arrays.BinarySearch;
 public class SmallestLetter {
     public static void main(String[] args) {
         int[]letters={'c','f','j'};
-        int target='a';
+        int target='f';
 
         System.out.println(CeilingOfNum(letters,  target));
     }
